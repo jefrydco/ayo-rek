@@ -52,7 +52,7 @@
     "boolean": "^3.0.1",
     "chance": "^1.1.7",
     "checkit": "^0.7.0",
-    "clipboard-copy": "^3.1.0",
+    "clipboard-copy": "^4.0.1",
     "convict": "^5.2.0",
     "cookieparser": "^0.1.0",
     "cors": "^2.8.5",
