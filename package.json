@@ -95,7 +95,7 @@
     "redis": "^3.0.2",
     "require-directory": "^2.1.1",
     "rimraf": "^3.0.2",
-    "set-interval-async": "^1.0.33",
+    "set-interval-async": "^2.0.3",
     "unique-random-array": "^2.0.0",
     "uuid": "^8.3.0",
     "uuid-validate": "^0.0.3",
