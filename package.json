@@ -57,7 +57,7 @@
     "cookieparser": "^0.1.0",
     "cors": "^2.8.5",
     "cross-env": "^7.0.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^10.0.0",
     "eslint-plugin-vuetify": "^1.0.0-beta.7",
     "express": "^4.17.1",
     "express-interceptor": "^1.2.0",
